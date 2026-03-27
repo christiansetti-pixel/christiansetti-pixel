@@ -2,7 +2,7 @@
 
 🎓 Estudanto da Aprendizagem Industrial de programador de sistemas de informação. (SENAI) Contratado pela Empresa Seara Alimentos 
 
-🎓 Estudante do 1° serie do ensino medío na escola estadual  EEB cecilia vivan 2026.
+🎓 Estudante do 1° Ano Ensino Medío na Escola Estadual Básica Cecilia Vivan.
 
 💻 Interessado em tecnologia, programação e inovação  
 
