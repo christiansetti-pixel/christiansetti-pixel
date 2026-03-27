@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Christian Setti
 
-🎓 Estudanto da Aprendizagem Industrial de programador de sistemas de informação. (senai) contratado pela Empresa Seara Alimentos 
+🎓 Estudanto da Aprendizagem Industrial de programador de sistemas de informação. (SENAI) contratado pela Empresa Seara Alimentos 
 🎓estudante do 1° serie do ensino medío na escola estadual  EEB cecilia vivan 2026.
 
 💻 Interessado em tecnologia, programação e inovação  
