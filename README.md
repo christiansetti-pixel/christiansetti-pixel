@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Christian Setti
 
-🎓 Estudante da Aprendizagem Industrial programador de sistemas de informação  
+🎓 Estudanto da Aprendizagem Industrial programador de sistemas de informação - contratado pela empresa JBS  
 💻 Interessado em tecnologia, programação e inovação  
 
 ---
